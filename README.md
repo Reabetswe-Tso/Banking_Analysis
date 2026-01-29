@@ -45,31 +45,44 @@ A comprehensive SQL-based analysis of banking transactions, customer behavior, f
 **Finding:** Digital channels (Mobile + Online) account for approximately 65-70% of total transaction volume, with Mobile banking showing the highest growth.
 
 **Business Impact:** Strong digital adoption supports continued investment in mobile banking infrastructure and potential reduction in physical branch locations.
+<img width="744" height="239" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/5313b258-8e0d-44ca-8c06-7ec24ab54715" />
+
+
 
 ### 2. High-Value Customer Identification
 **Finding:** Top 10% of customers generate approximately 60-65% of total transaction volume.
 
 **Business Impact:** These customers are prime candidates for premium banking services, wealth management products, and personalized retention strategies.
+<img width="1217" height="355" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/7e0387f3-1d1f-4f78-9d8b-b10fe2833420" />
+
+
 
 ### 3. Fraud Detection & Risk Management
 **Finding:** Identified 50+ suspicious transactions based on high values (>R10,000) and unusual timing (midnight to 5 AM transactions).
 
 **Business Impact:** Enhanced monitoring and automated fraud detection systems can prevent potential losses and improve customer security.
+<img width="1335" height="566" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/6ec50c65-288d-41ad-b0bc-c410239ea0ce" />
+
 
 ### 4. Customer Balance Segmentation
 **Finding:** 40% of customers maintain balances below R5,000, while only 6% maintain balances above R50,000.
 
 **Business Impact:** Opportunity for targeted savings promotions for lower-balance customers and wealth management services for high-balance segments.
+<img width="841" height="239" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/4ef77cdb-aecb-434a-9ff0-e7ec540c9208" />
+
 
 ### 5. Loan Portfolio Performance
 **Finding:** Auto loans show higher default rates (6-8%) compared to home loans (2-3%), with business loans falling in between.
 
 **Business Impact:** Risk-based pricing adjustments and stricter approval criteria for higher-risk loan categories can improve portfolio health.
+<img width="1283" height="252" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/f68e5589-f054-4fd2-89b1-ddf506c20135" />
+
 
 ### 6. Digital Banking Adoption
 **Finding:** Digital transaction percentage has grown to 65-70% of total transactions, with Mobile showing 35% share.
 
 **Business Impact:** Validates digital transformation strategy and justifies infrastructure optimization and branch network rationalization.
+<img width="720" height="504" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/449336b7-36ea-4cee-8539-c16644e64342" />
 
 ---
 
